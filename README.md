@@ -49,7 +49,7 @@ The Greeks help measure **risk exposure of an option position**.
 
 This graph shows how the **call option price increases as the underlying stock price rises**.
 
-![Option Price Graph]<img width="686" height="470" alt="948ed631-5e59-4ffa-a037-c2c5c90426d3" src="https://github.com/user-attachments/assets/4f88de6a-9134-4c77-8dc8-0db1ea649e1c" />
+<img width="686" height="470" alt="948ed631-5e59-4ffa-a037-c2c5c90426d3" src="https://github.com/user-attachments/assets/4f88de6a-9134-4c77-8dc8-0db1ea649e1c" />
 
 
 ---
@@ -58,7 +58,7 @@ This graph shows how the **call option price increases as the underlying stock p
 
 Monte Carlo simulation generates thousands of possible future price paths for the stock using **Geometric Brownian Motion**.
 
-![Monte Carlo Simulation]<img width="695" height="470" alt="b4c03f17-391c-4f55-90b3-4b109166833d" src="https://github.com/user-attachments/assets/beb8ab25-76f1-49e0-9e9c-5d3dffb4ee32" />
+<img width="695" height="470" alt="b4c03f17-391c-4f55-90b3-4b109166833d" src="https://github.com/user-attachments/assets/beb8ab25-76f1-49e0-9e9c-5d3dffb4ee32" />
 
 
 Simulation Parameters:
